@@ -37,3 +37,55 @@ section { display: flex; }
 .text-light { font-size: 30px; color: #A0A0A0; }
 .text-secondary { font-size: 30px; color: #faa541; }
 .text-primary { font-size: 16px; color: #364147; }
+.header-nav{
+	border-bottom: 1px;
+	border-color: #a0a0a0;
+}
+.brand{
+	size: 170px 85px;
+	margin-left: -15px;
+	margin-right: 60px;
+}
+.logi{
+	max-width: 100%;
+	height: auto;
+}
+.search-box{
+	size: 330px 30px;
+	padding-top:12px;
+	padding-bottom: 12px;
+	border: 1px FULL;
+	border-color: #a0a0a0;
+}
+.search-button{
+	background-color: #a0a0a0;
+	color:#ffffff;
+	size: 100px 30px;
+	border: 0;
+	padding: 0;
+}
+.nav-list{
+	padding-left: 0;
+	width: 575px;
+	margin-top: 10px;
+}
+.nav-list li a{
+	padding-left: 0;
+	width: 575px;
+	margin-top: 10px;
+
+}
+.profile{
+	margin-left: auto;
+}
+.account{
+	text-align: right;
+	padding: 15px;
+	color: #364147;
+	size: 18px;
+}
+img.profile-pic{
+	size:60px 60px;
+	border-radius: 100px;
+	max-width: 100px;
+	}
